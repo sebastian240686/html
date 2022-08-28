@@ -1,0 +1,27 @@
+h1{
+    color:blue;
+}
+
+#txtnombre{
+    color:black;
+    background-color: beige;
+}
+#txtapellido{
+    color:black;
+    background-color: beige;
+
+}
+#txtedad{
+    color: black;
+    background-color: beige;
+}
+#btningresar{
+    color: black;
+    background-color: green;
+}
+input{
+    display:flex;
+}
+#datos{
+    color: brown;
+}
